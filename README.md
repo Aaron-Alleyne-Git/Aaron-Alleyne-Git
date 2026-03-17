@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aaron+Alleyne;DevSecOps+Specialist+%26+Cloud+Infrastructure+Engineer;Securing+%26+Scaling+Cloud+Platforms+%F0%9F%9B%A1%EF%B8%8F)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aaron+Alleyne;DevSecOps+Specialist+%26+Cloud+Infrastructure+Engineer;Securing+%26+Scaling+Cloud+Platforms+%F0%9F%9B%A1%EF%B8%8F)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alleynea02)
 [![Location](https://img.shields.io/badge/Barbados-%F0%9F%87%A7%F0%9F%87%A7-informational?style=flat-square)](https://github.com/Aaron-Alleyne-Git)
