@@ -60,7 +60,6 @@ I'm a DevSecOps Specialist and Cloud Infrastructure Engineer with a background i
 |---|---|---|
 | [PharmaLink](https://github.com/Aaron-Alleyne-Git/pharmalink) | B2B pharmacy supply discovery platform for the Caribbean market — weighted supplier ranking, shortage alerts, and a four-tier SaaS monetization model | Vue 3, NestJS, PostgreSQL, Redis, AWS |
 | [ByteBay BDS](https://github.com/Aaron-Alleyne-Git/bytebay-bds) | Local computer parts search aggregator for Barbados — price comparison across regional retailers | Next.js, Node.js |
-| [CruisePort City Connect](https://github.com/Aaron-Alleyne-Git/cruiseport) | Cruise passenger engagement platform with media upload, WebP processing, and full Docker Compose stack | React, Docker, PostgreSQL, sharp |
 | [DevSecOps N8N Starter](https://github.com/Aaron-Alleyne-Git/n8n-devsecops) | GitHub security advisory alerting to Slack via N8N — workflow automation starter for DevSecOps teams | N8N, GitHub Actions, Webhooks |
 | [GKE Ollama AI Inference](https://github.com/Aaron-Alleyne-Git/gke-ollama) | Self-hosted LLM inference on GKE with Tailscale zero-trust networking and GPU node pools | GKE, Ollama, Tailscale, Terraform |
 
